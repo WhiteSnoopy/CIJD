@@ -1,4 +1,4 @@
-FROM bpatterson/centos7-jdk8
+FROM vertigomedia/ubuntu-jdk8
 MAINTAINER Silva Song "silva.song@aliyun.com"
 
 #安装tomcat
